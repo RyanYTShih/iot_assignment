@@ -7,3 +7,5 @@ sharedMem: make後編譯出shmem，實驗shared memory的一支程式
 
 test: 實驗socket的程式，利用pthread達成server與client互相傳送訊息
 
+
+demo影片連結: https://youtu.be/sM7sp3zpyIQ
